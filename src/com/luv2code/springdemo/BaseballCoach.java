@@ -2,7 +2,7 @@ package com.luv2code.springdemo;
 
 public class BaseballCoach implements Coach {
 
-    //difine a private field for the dependency
+    //define a private field for the dependency
     private FortuneService fortuneService;
 
     //define a constructor for dependency injection
