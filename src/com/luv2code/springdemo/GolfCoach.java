@@ -8,6 +8,6 @@ public class GolfCoach implements Coach {
 
     @Override
     public String getDailyFortune() {
-        return null;
+        return "What's up doc?";
     }
 }
