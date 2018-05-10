@@ -7,6 +7,7 @@ public class GolfCoach implements Coach {
         fortuneService = theFortuneService;
     }
 
+
     @Override
     public String getDailyWorkout() {
         return "Practice your putting skills for 2 hours today";

@@ -34,7 +34,7 @@ public class CricketCoach implements Coach {
         System.out.println("CricketCoach:inside no-arg constructor");
     }
 
-    //our setter method
+//    our setter method
     public void setFortuneService(FortuneService fortuneService) {
         System.out.println("CricketCoach:inside setter method - setFortuneService");
         this.fortuneService = fortuneService;
