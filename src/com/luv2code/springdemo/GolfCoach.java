@@ -8,6 +8,7 @@ public class GolfCoach implements Coach {
     }
 
 
+
     @Override
     public String getDailyWorkout() {
         return "Practice your putting skills for 2 hours today";
@@ -16,5 +17,15 @@ public class GolfCoach implements Coach {
     @Override
     public String getDailyFortune() {
         return fortuneService.getFortune();
+    }
+
+    //add an init method
+    public void doMyStartStuff(){
+        System.out.println("GolfCoach: inside method  doMyStartStuff.Hey");
+    }
+
+    // add a destroy method
+    public void doMyCleanupStuffYoYo(){
+        System.out.println("GolfCoach: inside method doMyCleanupStuffWowWow");
     }
 }

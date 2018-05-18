@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8c1620e-cf65-41ef-aebf-324515e15e53" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beanScope-applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/BeanScopeDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBeanLifeCycle-applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBeanScope-applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/PracticeBeanLifeCycleDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/PracticeBeanScopeDemoApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spring-demo-one/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-demo-one/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-demo-one/com/luv2code/springdemo/TrackCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-demo-one/com/luv2code/springdemo/TrackCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/GolfCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/GolfCoach.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,57 +20,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SetterDemoApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/SetterDemoApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PracticeHelloSpringApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/PracticeHelloSpringApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Coach.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/Coach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CricketCoach.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/CricketCoach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-              <folding>
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="beanScope-applicationContext.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beanScope-applicationContext.xml">
+      <file leaf-file-name="PracticeBeanScope-applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PracticeBeanScope-applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
@@ -78,11 +29,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="beanLifeCycle-applicationContext.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml">
+      <file leaf-file-name="GolfCoach.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/GolfCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="323">
+              <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+              <folding>
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,17 +47,49 @@
       <file leaf-file-name="BeanScopeDemoApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/BeanScopeDemoApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="255">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeanLifeCycleDemoApp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java">
+      <file leaf-file-name="PracticeBeanScopeDemoApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/PracticeBeanScopeDemoApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="231">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="beanLifeCycle-applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="19" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PracticeBeanLifeCycleDemoApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/PracticeBeanLifeCycleDemoApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GolfCoach.java" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/UdemySpringCourse/solution-practice-activities/solution-practice-activity-3-bean-scopes-xml/GolfCoach.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="PracticeBeanLifeCycle-applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PracticeBeanLifeCycle-applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -108,13 +97,11 @@
       <file leaf-file-name="TrackCoach.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="32" column="74" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
+            <state relative-caret-position="323">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="33" selection-end-column="5" />
               <folding>
                 <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#677#678#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -154,7 +141,6 @@
         <option value="$PROJECT_DIR$/src/sport.properties" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/RandomFortuneService.java" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/PracticeHelloSpringApp.java" />
-        <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/GolfCoach.java" />
         <option value="$PROJECT_DIR$/src/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/CricketCoach.java" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/beanScope-applicationContext.xml" />
@@ -163,6 +149,11 @@
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java" />
         <option value="$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/PracticeBeanScopeDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/PracticeBeanScope-applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/PracticeBeanLifeCycle-applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/GolfCoach.java" />
+        <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/PracticeBeanLifeCycleDemoApp.java" />
       </list>
     </option>
   </component>
@@ -189,6 +180,7 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,7 +203,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,8 +217,8 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\alexander.mikhailov\spring-demo-one\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.luv2code.springdemo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alexander.mikhailov\spring-demo-one\src" />
@@ -237,8 +228,8 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.luv2code.springdemo" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.luv2code.springdemo" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexander.mikhailov\spring-demo-one\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -253,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BeanLifeCycleDemoApp">
+  <component name="RunManager" selected="Application.PracticeBeanLifeCycleDemoApp">
     <configuration name="BeanLifeCycleDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.BeanLifeCycleDemoApp" />
       <module name="spring-demo-one" />
@@ -276,8 +267,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.HelloSpringApp" />
+    <configuration name="PracticeBeanLifeCycleDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.PracticeBeanLifeCycleDemoApp" />
       <module name="spring-demo-one" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -287,8 +278,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PracticeHelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.PracticeHelloSpringApp" />
+    <configuration name="PracticeBeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.PracticeBeanScopeDemoApp" />
       <module name="spring-demo-one" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -351,19 +342,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.HelloSpringApp" />
       <item itemvalue="Application.SetterDemoApp" />
-      <item itemvalue="Application.PracticeHelloSpringApp" />
       <item itemvalue="Application.BeanScopeDemoApp" />
       <item itemvalue="Application.BeanLifeCycleDemoApp" />
+      <item itemvalue="Application.PracticeBeanScopeDemoApp" />
+      <item itemvalue="Application.PracticeBeanLifeCycleDemoApp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BeanLifeCycleDemoApp" />
+        <item itemvalue="Application.PracticeBeanLifeCycleDemoApp" />
+        <item itemvalue="Application.PracticeBeanScopeDemoApp" />
         <item itemvalue="Application.BeanScopeDemoApp" />
+        <item itemvalue="Application.BeanLifeCycleDemoApp" />
         <item itemvalue="Application.SetterDemoApp" />
-        <item itemvalue="Application.PracticeHelloSpringApp" />
-        <item itemvalue="Application.HelloSpringApp" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +381,8 @@
       <workItem from="1525523549663" duration="599000" />
       <workItem from="1525533666956" duration="599000" />
       <workItem from="1525871532108" duration="5848000" />
-      <workItem from="1526565903077" duration="4833000" />
+      <workItem from="1526565903077" duration="6120000" />
+      <workItem from="1526658235948" duration="1357000" />
     </task>
     <task id="LOCAL-00001" summary="something new)">
       <created>1524494543093</created>
@@ -420,11 +412,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525958875149</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Bean Scopes and LifeCycles">
+      <created>1526576490778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526576490778</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46631000" />
+    <option name="totallyTimeSpent" value="49275000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -437,35 +436,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32864675" />
-      <window_info anchor="bottom" id="Messages" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.19347496" side_tool="true" weight="0.32864675" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32864675" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.19347496" side_tool="true" weight="0.32864675" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32864675" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.80652505" visible="true" weight="0.3277311" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32864675" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3321617" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3321617" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29880953" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Module Dependencies" order="3" weight="0.32962963" />
+      <window_info anchor="right" id="Module Dependencies" order="7" weight="0.32962963" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -482,58 +480,10 @@
     <MESSAGE value="basic setter injection)" />
     <MESSAGE value=" literal values injection)" />
     <MESSAGE value="practice 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice 2" />
+    <MESSAGE value="Bean Scopes and LifeCycles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bean Scopes and LifeCycles" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/HappyFortuneService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/HelloSpringApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/MyApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/BaseballCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/Coach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/FortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -726,17 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/GolfCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-465">
@@ -765,13 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/PracticeHelloSpringApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/SetterDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -779,16 +711,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/CricketCoach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="425">
           <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="e#263#264#0" expanded="true" />
@@ -797,16 +722,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java">
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/PracticeHelloSpringApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" column="74" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
-          <folding>
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -817,26 +736,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/BeanScopeDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="255">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/PracticeBeanScopeDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="231">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeBeanScope-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeBeanLifeCycle-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/GolfCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/UdemySpringCourse/solution-practice-activities/solution-practice-activity-3-bean-scopes-xml/PracticeBeanScopeDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/UdemySpringCourse/solution-practice-activities/solution-practice-activity-3-bean-scopes-xml/RandomFortuneService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/PracticeBeanLifeCycleDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/UdemySpringCourse/solution-practice-activities/solution-practice-activity-3-bean-scopes-xml/GolfCoach.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
